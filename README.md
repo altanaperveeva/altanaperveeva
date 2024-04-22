@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi!
+I am a Data Science and Digital Business student.
+I am interested in coding, finance and international law.
+Currently I am learning JavaScript and machine learning
 
 <!--
 **altanaperveeva/altanaperveeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
