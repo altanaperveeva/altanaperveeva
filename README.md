@@ -26,6 +26,8 @@ Data Analyst with a strong foundation in Digital Business and Data Science, comb
 
 <br/>
 
+---
+
 ### Stats:
 
 [![altanaperveeva's GitHub stats](https://github-readme-stats-pi-henna-94.vercel.app/api?username=altanaperveeva&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
