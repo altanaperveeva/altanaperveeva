@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altanaperveeva&langs_count=6&theme=dark&layout=compact&size_weight=0.1&count_weight=0.1&hide=html)](https://github.com/anuraghazra/github-readme-stats)
