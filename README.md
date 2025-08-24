@@ -24,16 +24,7 @@ Data Analyst with a strong foundation in Digital Business and Data Science, comb
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="XML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" style="padding-right:10px;" />
 
-
-
-
-
-
-
-
-
 <br/>
-
 
 ### Stats:
 
