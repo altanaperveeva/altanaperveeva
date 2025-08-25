@@ -1,5 +1,5 @@
 ### Hi!
-Data Analyst with a strong foundation in Digital Business and Data Science, combining analytical expertise with full-stack development capabilities. Experienced in developing data-driven solutions, optimizing system performance, and creating business intelligence tools that bridge technical implementation with strategic decision-making.
+Data Analyst/Full-Stack developer with a strong foundation in Digital Business and Data Science, combining analytical expertise with full-stack development capabilities. Experienced in developing data-driven solutions, optimizing system performance, and creating business intelligence tools that bridge technical implementation with strategic decision-making.
 ## LinkedIn
 <a href="https://www.linkedin.com/in/altana-perveeva05/">
     <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linked In">
